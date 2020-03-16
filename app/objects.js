@@ -7,6 +7,10 @@
 // array.Inside the array, include at least 4 values.
 let goodDoggo = {
   //your code in here
+  name: "Polo",
+  legs: 5,
+  tail: true,
+  likes: ['Bacon', 'Fetch', 'Tennis Balls', 'Digging in the garden']
 }
 
 
